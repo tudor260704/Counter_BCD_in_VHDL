@@ -1,1 +1,1 @@
-Am avut la materia Electronica Digitala de implementat un counter BCD in limbajul de programare VHDL. Am atasat fisierul sursa si fisierul de constrangeri.
+Am avut la materia Electronica Digitala de implementat un counter BCD atat crescator cat si descrescator in limbajul de programare VHDL, pe langa asta mai este implementat si un registru serie. Am atasat fisierul sursa si fisierul de constrangeri.
